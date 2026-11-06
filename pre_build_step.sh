@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Needed because GameMaker changes the PATH
 # variable of the script to be different,
